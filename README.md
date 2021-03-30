@@ -6,7 +6,6 @@
 - ❓Questions? **Join discord https://discord.gg/YmyssQZ**
 - 🌌Version **1.0**
 
-  </> with <3 by juhom
 
 <h1 align="center">Important</h1>
 
